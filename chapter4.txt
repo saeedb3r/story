@@ -1,5 +1,9 @@
 rise of alien
+<<<<<<< HEAD
 all alien is dead now.
 afew days later
 one week later
 
+=======
+while alien attack the earth I was sleeping. :)
+>>>>>>> sun
